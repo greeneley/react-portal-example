@@ -4,9 +4,14 @@ React Portal là một tính năng trong React cho phép render một thành ph�
 
 Nếu không sử dụng 
 
-[1.mp4](assets%2F1.mp4)
+
+https://github.com/user-attachments/assets/85880e91-2dbf-46db-ba4c-7fb38d9c73ec
+
 
 
 Nếu sử dụng Portal
 
-[2.mp4](assets%2F2.mp4)
+
+
+https://github.com/user-attachments/assets/7d280f15-6b60-445d-98ce-6e26812733d4
+
